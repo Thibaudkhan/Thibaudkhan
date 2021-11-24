@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Thibaudkhan.Thibaudkhan)
 <br />
 <br />
-# __A French Developer__
+<p align="center"><h align="center"><samp> A French Developer </samp></h2></p>
 <br>
 <br>
   <img id="me" align="right" alt="GIF" height="160px" style="border-radius:50%" src="https://cdn.discordapp.com/attachments/535489728729055244/913071279828000818/profile.png" />
@@ -52,7 +52,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluency/48/000000/github.png"/> 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
@@ -70,8 +70,6 @@
 </p>
 
 <br>
-
-## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Thibaudkhan&theme=nord&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
