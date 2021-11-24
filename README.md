@@ -6,15 +6,18 @@
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Thibaudkhan.Thibaudkhan)
+<br />
+<br />
 
-### Connect with me:
+## Connect with me:
 
 <img align="left" alt="https://www.codewars.com/users/Thibaudkhan" width="22px" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" />
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
+<br />
 
-### Languages :
+## 🛠 Languages :
 
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -31,7 +34,7 @@
 
 <br />
 
-### Tools :
+## ⚙️ Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -39,8 +42,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
-Actually, I am a studing [Master in Lead Development](https://codingfactory.fr/nos-formations/master-lead-development/) <br>
+
+#### Actually, I am a studing [Master in Lead Development](https://codingfactory.fr/nos-formations/master-lead-development/) <br>
 
 
 ## 🏆 GitHub Trophies
@@ -55,20 +60,23 @@ Actually, I am a studing [Master in Lead Development](https://codingfactory.fr/n
 <br>
 
 ## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thibaudkhan&theme=nord&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Thibaudkhan&theme=nord&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Thibaudkhan/codflix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thibaudkhan&repo=codflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="codflix" />
-</a>
+<div align="center">
+  <a href="https://github.com/Thibaudkhan/codflix">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thibaudkhan&repo=codflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="codflix" />
+  </a>
 
-<a href="https://github.com/YanisVerbeke/CodingGameJam2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YanisVerbeke&repo=CodingGameJam2021&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CodingGameJam2021" />
-</a>
+  <a href="https://github.com/YanisVerbeke/CodingGameJam2021">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YanisVerbeke&repo=CodingGameJam2021&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CodingGameJam2021" />
+  </a>
 
-<a href="https://github.com/sdeschaepmeester/NewFindicament">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sdeschaepmeester&repo=NewFindicament&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="NewFindicament" />
-</a>
+  <a href="https://github.com/sdeschaepmeester/NewFindicament">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sdeschaepmeester&repo=NewFindicament&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="NewFindicament" />
+  </a>
+</div>
