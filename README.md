@@ -1,9 +1,6 @@
 
 # Hello there 👋
 
-<img align='right' src="https://fr.depositphotos.com/355486214/stock-illustration-working-office-illustration.html
-" width="230">
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Thibaudkhan.Thibaudkhan)
 <br />
@@ -59,9 +56,6 @@
 
 <br />
 <br />
-
-
-#### Actually, I am a studing [Master in Lead Development](https://codingfactory.fr/nos-formations/master-lead-development/) <br>
 
 
 ## 🏆 GitHub Trophies
