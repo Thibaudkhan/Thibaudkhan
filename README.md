@@ -8,9 +8,11 @@
 
 <p align="center"><h4 align="center"><samp> A French Developer </samp></h4></p>
 <br>
+```js script
+alert("hello");  
+```
+  <img align="right" alt="GIF" height="160px" style="border-radius:50%" src="https://static.vecteezy.com/ti/vecteur-libre/p2/3326597-concept-de-developpement-logiciel-pour-site-web-et-site-mobile-vectoriel.jpg" />
 
-  <img align="right" alt="GIF" height="160px" src="https://static.vecteezy.com/ti/vecteur-libre/p2/3326597-concept-de-developpement-logiciel-pour-site-web-et-site-mobile-vectoriel.jpg" />
-  <img align="right" alt="GIF" height="160px" src="https://lh3.google.com/u/0/d/12hGXMJphhyIjKFqLggPt6qbJfi0CYeo5=w1162-h875-iv1" />
 <div>
 
 <!--- - 🔭 <samp>I’m currently --->
