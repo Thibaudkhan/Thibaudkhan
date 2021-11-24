@@ -10,7 +10,7 @@
 </div>
 <br>
 <div>
-  <img id="me" align="right" alt="GIF" height="160px" style="border-radius:50%" src="https://static.vecteezy.com/ti/vecteur-libre/p2/3326597-concept-de-developpement-logiciel-pour-site-web-et-site-mobile-vectoriel.jpg" />
+  <img id="me" align="right" alt="GIF" height="160px" style="border-radius:50%" src="https://cdn.discordapp.com/attachments/535489728729055244/913071279828000818/profile.png" />
 </div>
 <div>
 
