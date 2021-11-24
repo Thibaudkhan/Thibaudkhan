@@ -34,10 +34,9 @@ Actually, I am a studing [Master in Lead Development](https://codingfactory.fr/n
 Watch my [Linkedin profile](https://www.linkedin.com/in/thibaud-roussel-9b612a164/)
 
 
-### Github Stats
 ##
 <details>
-  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
+  <summary><b><samp> Github Stat<s/samp></b></summary>
   <br>
   <p align="center">
     <a href="https://github.com/Thibaudkhan">
@@ -48,3 +47,22 @@ Watch my [Linkedin profile](https://www.linkedin.com/in/thibaud-roussel-9b612a16
 </details>
 <br>
 
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thibaudkhan&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Thibaudkhan/codflix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thibaudkhan/codflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="codflix" />
+</a>
+
+<a href="https://github.com/YanisVerbeke/CodingGameJam2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YanisVerbeke&repo=CodingGameJam2021&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CodingGameJam2021" />
+</a>
+
+<a href="https://github.com/sdeschaepmeester/NewFindicament">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sdeschaepmeester&repo=NewFindicament&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="NewFindicament" />
+</a>
