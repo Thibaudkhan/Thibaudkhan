@@ -16,7 +16,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />=
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -36,7 +36,7 @@ Watch my [Linkedin profile](https://www.linkedin.com/in/thibaud-roussel-9b612a16
 
 ##
 <details>
-  <summary><b><samp> Github Stat<s/samp></b></summary>
+  <summary><b><samp> Github Stat</samp></b></summary>
   <br>
   <p align="center">
     <a href="https://github.com/Thibaudkhan">
@@ -50,7 +50,7 @@ Watch my [Linkedin profile](https://www.linkedin.com/in/thibaud-roussel-9b612a16
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thibaudkhan&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thibaudkhan&theme=nord&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🗂️ Highlight Projects
