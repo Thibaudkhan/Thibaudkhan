@@ -1,5 +1,10 @@
 
 # Hello there 👋
+
+<img align='right' src="https://fr.depositphotos.com/355486214/stock-illustration-working-office-illustration.html
+" width="230">
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Thibaudkhan.Thibaudkhan)
 
 ### Connect with me:
@@ -9,9 +14,9 @@
 
 <br />
 
-### Languages and Tools:
+### Languages :
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -23,30 +28,31 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 
+
+<br />
+
+### Tools :
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
-Actually, I am a studing [Master in Lead Development](https://codingfactory.fr/nos-formations/master-lead-development/) \n
-Watch my [Linkedin profile](https://www.linkedin.com/in/thibaud-roussel-9b612a164/)
+Actually, I am a studing [Master in Lead Development](https://codingfactory.fr/nos-formations/master-lead-development/) <br>
 
 
-##
-<details>
-  <summary><b><samp> Github Stat</samp></b></summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/Thibaudkhan">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thibaudkhan&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thibaudkhan&hide=html,css,javascript&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-  </p>
-</details>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/Thibaudkhan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thibaudkhan&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thibaudkhan&hide=html,css,javascript&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
 <br>
-
 
 ## 🏆 GitHub Trophies
 
@@ -56,7 +62,7 @@ Watch my [Linkedin profile](https://www.linkedin.com/in/thibaud-roussel-9b612a16
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/Thibaudkhan/codflix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thibaudkhan/codflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="codflix" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thibaudkhan&repo=codflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="codflix" />
 </a>
 
 <a href="https://github.com/YanisVerbeke/CodingGameJam2021">
