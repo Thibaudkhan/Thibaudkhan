@@ -9,6 +9,20 @@
 <br />
 <br />
 
+<p align="center"><h4 align="center"><samp> A French Developer </samp></h4></p>
+<br>
+  <img align="right" alt="GIF" height="160px" src="https://static.vecteezy.com/ti/vecteur-libre/p2/247913-concepteur-de-vecteur-a-l-illustration-de-bureau-gratuit-vectoriel.jpg" />
+<div>
+
+<!--- - 🔭 <samp>I’m currently --->
+- 😄 <samp>I’m one of the creators of GooseGame and codflix.
+- 💬 <samp>Ask me about Php or anything else, I will try to help you.
+- 💼 I’m pursuing a Master' degree in [Lead Development](https://codingfactory.fr/nos-formations/master-lead-development/).
+- 🌱 I’m currently learning **JavaScript**
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1ICkq-kOWcNmB_sxIXC6cCm635LGo3k8v/view) to get more info.
+- 📌 Paris, France
+</div>
+
 ## Connect with me:
 
 <img align="left" alt="https://www.codewars.com/users/Thibaudkhan" width="22px" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" />
@@ -33,6 +47,8 @@
 
 
 <br />
+<br />
+
 
 ## ⚙️ Tools :
 
@@ -60,9 +76,8 @@
 <br>
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Thibaudkhan&theme=nord&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thibaudkhan&theme=nord&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🗂️ Highlight Projects
@@ -73,7 +88,7 @@
   </a>
 
   <a href="https://github.com/YanisVerbeke/CodingGameJam2021">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YanisVerbeke&repo=CodingGameJam2021&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CodingGameJam2021" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YanisVerbeke&repo=CodingGameJam2021&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GooseGame" />
   </a>
 
   <a href="https://github.com/sdeschaepmeester/NewFindicament">
