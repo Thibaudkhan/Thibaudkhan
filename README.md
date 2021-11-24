@@ -8,7 +8,7 @@
 
 <p align="center"><h4 align="center"><samp> A French Developer </samp></h4></p>
 <br>
-  <img align="right" alt="GIF" height="160px" src="https://drive.google.com/file/d/12hGXMJphhyIjKFqLggPt6qbJfi0CYeo5/view?usp=sharing" />
+  <img align="right" alt="GIF" height="160px" src="https://static.vecteezy.com/ti/vecteur-libre/p2/3326597-concept-de-developpement-logiciel-pour-site-web-et-site-mobile-vectoriel.jpg" />
 <div>
 
 <!--- - 🔭 <samp>I’m currently --->
