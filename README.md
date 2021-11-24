@@ -8,7 +8,7 @@
 
 <p align="center"><h4 align="center"><samp> A French Developer </samp></h4></p>
 <br>
-  <img align="right" alt="GIF" height="160px" src="https://static.vecteezy.com/ti/vecteur-libre/p2/247913-concepteur-de-vecteur-a-l-illustration-de-bureau-gratuit-vectoriel.jpg" />
+  <img align="right" alt="GIF" height="160px" src="https://static.vecteezy.com/ti/vecteur-libre/p2/3326597-concept-de-developpement-logiciel-pour-site-web-et-site-mobile-vectoriel.jpg" />
 <div>
 
 <!--- - 🔭 <samp>I’m currently --->
@@ -74,7 +74,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Thibaudkhan&theme=nord&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 🗂️ Highlight Projects
+## 🗂️ Highlight Projects 
 
 <div align="center">
   <a href="https://github.com/Thibaudkhan/codflix">
