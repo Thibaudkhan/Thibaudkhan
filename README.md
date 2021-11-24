@@ -5,12 +5,10 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Thibaudkhan.Thibaudkhan)
 <br />
 <br />
-
-<p align="center"><h4 align="center"><samp> A French Developer </samp></h4></p>
+<div class="container">
+  <p align="center" class="typed"><h4 align="center"><samp> A French Developer </samp></h4></p>
+</div>
 <br>
-```js script
-alert("hello");  
-```
   <img align="right" alt="GIF" height="160px" style="border-radius:50%" src="https://static.vecteezy.com/ti/vecteur-libre/p2/3326597-concept-de-developpement-logiciel-pour-site-web-et-site-mobile-vectoriel.jpg" />
 
 <div>
@@ -93,3 +91,24 @@ alert("hello");
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sdeschaepmeester&repo=NewFindicament&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="NewFindicament" />
   </a>
 </div>
+
+<style type="text/css">
+  .container{
+  display: inline-block;
+}
+.typed{
+  overflow: hidden;
+  border-right: .15em solid orange;
+  white-space: nowrap;
+  animation: 
+  typing 1s steps(20, end) forwards;
+  font-size: 1.6rem;
+  width: 0;
+}
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+
+</style>
