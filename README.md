@@ -9,7 +9,7 @@
   <p align="center" class="typed"><h4 align="center"><samp> A French Developer </samp></h4></p>
 </div>
 <br>
-  <img align="right" alt="GIF" height="160px" style="border-radius:50%" src="https://static.vecteezy.com/ti/vecteur-libre/p2/3326597-concept-de-developpement-logiciel-pour-site-web-et-site-mobile-vectoriel.jpg" />
+  <img id="me" align="right" alt="GIF" height="160px" style="border-radius:50%" src="https://static.vecteezy.com/ti/vecteur-libre/p2/3326597-concept-de-developpement-logiciel-pour-site-web-et-site-mobile-vectoriel.jpg" />
 
 <div>
 
@@ -92,7 +92,11 @@
   </a>
 </div>
 
-<style type="text/css">
+<style>
+  #me{
+    border-radius: 50%;
+  }
+
   .container{
   display: inline-block;
 }
