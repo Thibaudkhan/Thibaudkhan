@@ -5,13 +5,10 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Thibaudkhan.Thibaudkhan)
 <br />
 <br />
-<div class="container">
-  <p align="center" class="typed"><h4 align="center"><samp> A French Developer </samp></h4></p>
-</div>
+# __A French Developer__
 <br>
-<div>
+<br>
   <img id="me" align="right" alt="GIF" height="160px" style="border-radius:50%" src="https://cdn.discordapp.com/attachments/535489728729055244/913071279828000818/profile.png" />
-</div>
 <div>
 
 <!--- - 🔭 <samp>I’m currently --->
@@ -21,13 +18,14 @@
 - 🌱 I’m currently learning **JavaScript**
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1ICkq-kOWcNmB_sxIXC6cCm635LGo3k8v/view) to get more info.
 - 📌 Paris, France
+<br>
+
 </div>
 
 ## Connect with me:
 
 <img align="left" alt="https://www.codewars.com/users/Thibaudkhan" width="22px" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/doodle/50/000000/linkedin--v2.png"/>
 <br />
 <br />
 
@@ -59,6 +57,7 @@
 
 <br />
 <br />
+<br>
 
 
 ## 🏆 GitHub Trophies
