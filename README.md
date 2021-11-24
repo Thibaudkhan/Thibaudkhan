@@ -5,62 +5,12 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Thibaudkhan.Thibaudkhan)
 <br />
 <br />
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="github-markdown.css">
-<style>
-	.markdown-body {
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
-	}
-
-	@media (max-width: 767px) {
-		.markdown-body {
-			padding: 15px;
-		}
-	}
-</style>
-<article class="markdown-body">
-	<h1>Unicorns</h1>
-	<p>All the things</p>
-</article>
-
 <div class="container">
   <p align="center" class="typed"><h4 align="center"><samp> A French Developer </samp></h4></p>
-  <style>
- 
-  .container{
-  display: inline-block;
-}
-.typed{
-  overflow: hidden;
-  border-right: .15em solid orange;
-  white-space: nowrap;
-  animation: 
-  typing 1s steps(20, end) forwards;
-  font-size: 1.6rem;
-  width: 0;
-}
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-
-</style>
 </div>
 <br>
 <div>
   <img id="me" align="right" alt="GIF" height="160px" style="border-radius:50%" src="https://static.vecteezy.com/ti/vecteur-libre/p2/3326597-concept-de-developpement-logiciel-pour-site-web-et-site-mobile-vectoriel.jpg" />
-<style type="text/css">
-   #me{
-    border-radius: 50%;
-  }
-
-</style>
 </div>
 <div>
 
