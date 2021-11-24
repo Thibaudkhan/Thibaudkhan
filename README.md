@@ -24,8 +24,8 @@
 
 ## Connect with me:
 
-<img align="left" alt="https://www.codewars.com/users/Thibaudkhan" width="22px" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/doodle/50/000000/linkedin--v2.png"/>
+<img align="left" href="https://www.codewars.com/users/Thibaudkhan" alt="https://www.codewars.com/users/Thibaudkhan" width="22px" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" />
+<img align="left" href="https://www.linkedin.com/in/thibaud-roussel-9b612a164/" alt="LinkedIn" width="22px" src="https://img.icons8.com/doodle/50/000000/linkedin--v2.png"/>
 <br />
 <br />
 
