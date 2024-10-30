@@ -13,10 +13,10 @@
 
 <!--- - 🔭 <samp>I’m currently --->
 - 😄 <samp>I’m one of the creators of GooseGame and codflix.
-- 💬 <samp>Ask me about Php or anything else, I will try to help you.
-- 💼 I’m pursuing a Master' degree in [Lead Development](https://codingfactory.fr/nos-formations/master-lead-development/).
-- 🌱 I’m currently learning **JavaScript**
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1ICkq-kOWcNmB_sxIXC6cCm635LGo3k8v/view) to get more info.
+- 💬 <samp>Ask me about C#, Php or anything else, and I will try to help you.
+- 💼 I graduate with a Master's in [Lead Development](https://codingfactory.fr/nos-formations/master-lead-development/).
+- 🌱 I’m currently learning **How to be a better developer :)**
+<!---- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1ICkq-kOWcNmB_sxIXC6cCm635LGo3k8v/view) to get more info.--->
 - 📌 Paris, France
 <br>
 
@@ -32,12 +32,7 @@
 ## 🛠 Languages :
 
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -47,17 +42,6 @@
 <br />
 <br />
 
-
-## ⚙️ Tools :
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluency/48/000000/github.png"/> 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-<br>
 
 
 ## 🏆 GitHub Trophies
